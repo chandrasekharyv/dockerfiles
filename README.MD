@@ -1,5 +1,5 @@
-# dockerfile
+### dockerfile
 
-### docker file is use to create the images
+docker file is use to create the images
 
-### After creating images build those images and pushing them into git
+After creating images build those images and pushing them into git
