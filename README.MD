@@ -7,5 +7,5 @@ After creating images build those images and pushing them into git
 ### how to build docker image
 
 '''
-docker build -t <image-name>:<version>
+docker build -t <image-name>:<version> .
 '''
